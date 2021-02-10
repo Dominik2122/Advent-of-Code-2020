@@ -2,7 +2,7 @@ file = open("docx.txt", "r")
 
 lista = []
 x = file.read()
-x = x.split("\n")
+x = x.split("\n") #converting .txt into a list
 ilosc_hasel = 0
 for i in x:
 
