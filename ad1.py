@@ -1,4 +1,4 @@
-file = open("docx.txt", "r")
+file = open("ad1.txt", "r")
 
 lista = []
 x = file.read()
